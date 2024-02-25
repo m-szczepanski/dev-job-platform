@@ -1,6 +1,3 @@
-# job-search
-
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -38,4 +35,11 @@ npm run test:unit
 
 ```sh
 npm run lint
+```
+
+
+### Whole app can be run in DEV environment by using
+
+```sh
+npm run dev
 ```
